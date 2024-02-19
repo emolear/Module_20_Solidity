@@ -1,1 +1,1 @@
-Module 20 Homework - Solidarity
+Module 20 Homework - Solidity
